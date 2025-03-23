@@ -1,5 +1,5 @@
-# SALBP1
-Instance for simple assembly line balancing problem to minimize the station number  
+# Instances_SALBP1
+Instances for simple assembly line balancing problem to minimize the station number  
 This instance set contains Scholl’s 269 instances[1] and Otto’s instances[2]. To gain a more in-depth and thorough understanding of this problem, interested authors are encouraged to refer to our relevant papers [3].  
 References:  
 [1] Armin Scholl, Robert Klein. SALOME: A bidirectional branch-and-bound procedure for assembly line balancing. INFORMS Journal on Computing, 1997, 9(4):319-334.  
