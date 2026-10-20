@@ -18,4 +18,4 @@ References:
 - [VERSION](VERSION) — current version
 - [LICENSE](LICENSE) — license
 
-**Maintainer:** IISO Team ｜ **Version:** 1.0.0 ｜ **Last Updated:** 2026-10-12
+**Maintainer:** IISO Team ｜ **Version:** 1.1.0 ｜ **Last Updated:** 2026-10-21
